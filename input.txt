@@ -1,0 +1,6 @@
+00:00:20	First Last:	start
+00:00:25	First Last:	Main Point
+00:00:33	First Last:	-Subpoint1
+00:00:39	First Last:	-Subpoint2
+00:00:57	First Last:	Next Point
+00:01:00	First Last:	-Subpoint1
