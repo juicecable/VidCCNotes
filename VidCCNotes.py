@@ -1,6 +1,6 @@
 #Copyright Derek Frombach
 
-#This program is designed to take zoom chat logs, and transform them into real-time closed captioning
+#This program is designed to take "popular video chat software" chat logs, and transform them into real-time closed captioning
 #The input file must be named input.txt
 #There are two options of things: main headings, and bullet points
 #A bullet point must be under a main heading, and must start with a dash
